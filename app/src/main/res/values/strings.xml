@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dodekatheon</string>
+    <string name="gods_name">Nama Dewa/Dewi</string>
+    <string name="detail">Detail</string>
 </resources>
